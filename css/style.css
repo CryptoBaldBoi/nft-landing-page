@@ -8,10 +8,10 @@
   --font-primary: 'Lato', ital;
   --font-secondary: 'Roboto', :ital;
   --font-code: 'Ubuntu', ital;
-  --bg-color: #3d0404f3;
-  --font-color: #fdfdff;
+  --bg-color: #200920;
+  --font-color: #fdfdff;  
   --btn-bg-color: #200985;
-  --accent-color: #e90a0a;
+  --accent-color: #dfe213;
   --header-shadow: rgb(0, 0, 0) 0px 0px 5px;
 }
 
