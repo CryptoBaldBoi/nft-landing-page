@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'CryptoBaldBoi';
+const COLLECTION_NAME = 'The NFT VENDOR';
 let editions = [];
 let dots = 1;
 

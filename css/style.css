@@ -1,18 +1,18 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,900;1,300;1,400;1,900&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300;1,400&family=Roboto:ital,wght@0,300;0,400;1,300;1,400&family=Ubuntu:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Libre', Baskerville;
+  --font-primary: 'Lato', ital;
   --font-secondary: 'Roboto', :ital;
-  --font-code: 'Source+Sans+Pros', ital;
-  --bg-color: #1bd4bcf3;
+  --font-code: 'Ubuntu', ital;
+  --bg-color: #3d0404f3;
   --font-color: #fdfdff;
-  --btn-bg-color: #fc0909;
-  --accent-color: #163adb;
-  --header-shadow: rgb(248, 20, 20) 0px 0px 5px;
+  --btn-bg-color: #200985;
+  --accent-color: #e90a0a;
+  --header-shadow: rgb(0, 0, 0) 0px 0px 5px;
 }
 
 * {
